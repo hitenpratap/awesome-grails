@@ -2,7 +2,7 @@
 A curated list of amazingly awesome Grails books, resources and shiny things.
 
 - [Awesome Grails](#awesome-grails)
-	- [Tutorials](#Tutorials)
+	- [Tutorials](#tutorials)
 	
 
 ## Tutorials
