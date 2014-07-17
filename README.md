@@ -1,19 +1,13 @@
 # Awesome Grails
-A curated list of amazingly awesome PHP libraries, resources and shiny things.
+A curated list of amazingly awesome Grails books, resources and shiny things.
 
 - [Awesome Grails](#awesome-grails)
-	- [Dependency Management](#dependency-management)
-	- [Dependency Management Extras](#dependency-management-extras)
-	- [Frameworks](#frameworks)
-	- [Framework Extras](#framework-extras)
-	- [Framework Components](#framework-components)
-	- [Micro Frameworks](#micro-frameworks)
-	- [Micro Framework Extras](#micro-framework-extras)
-	- [Templating](#templating)
-	- [Static Site Generators](#static-site-generators)
-	- [HTTP](#http)
-	- [URL](#url)
-	- [Email](#email)
-	- [Files](#files)
-	- [Streams](#streams)
-	- [Dependency Injection](#dependency-injection)
+	- [Tutorials](#Tutorials)
+	
+
+## Tutorials
+*Libraries for dependency and package management.*
+
+* [Composer](http://getcomposer.org/)/[Packagist](http://packagist.org/) - A package and dependency manager.
+* [Composer Installers](https://github.com/composer/installers) - A  multi framework Composer library installer.
+* [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
