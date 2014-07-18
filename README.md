@@ -24,6 +24,8 @@ A curated list of amazingly awesome Grails books, resources and shiny things.
 *List of all tutorials covering all Grails framework related aspects.*
 
 * [Official Tutorials](https://grails.org/tutorials) - Official Grails blog written by its author.
+* [Tutorial by Vogella](http://www.vogella.com/tutorials/Grails/article.html).
+* [Tutorial by IBM](http://www.ibm.com/developerworks/views/java/libraryview.jsp?site_id=1&contentarea_by=Java&sort_by=&sort_order=2&start=1&end=18&topic_by=&product_by=&type_by=All%20Types&show_abstract=true&search_by=mastering%20grails&industry_by=&series_title_by=).
 
 
 ## Plugins
@@ -36,4 +38,8 @@ A curated list of amazingly awesome Grails books, resources and shiny things.
 *List of all tools/ide that have great support for grails.*
 
 * [STS Integration](https://grails.org/STS+Integration) - Grails support in SpringSource Tool Suite (STS).
+* [NetBeans IDE Integration](http://grails.org/NetBeans+Integration) - Grails support in NetBeans IDE.
+* [IntelliJ Idea Integration](http://grails.org/IDEA+Integration) - Grails support in IntelliJ Idea.
+* [Sublime Text ](Sublime Text ) - Grails support in Sublime Text.
+
 
